@@ -2,6 +2,3 @@
 
 
 Repositories in order to provide typescript based npm packages.
-
-
-<img src="s[miley.gif](https://github.com/npm-cromesdk/template/raw/main/icon.png)" width="42" height="42" style="vertical-align:middle">
